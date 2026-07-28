@@ -210,7 +210,6 @@ Rather than functioning as a notes repository, this project serves as a centrali
 
 <div align="center">
 
-<img src="assets/integral-university-banner.png" width="100%" alt="Integral University Banner">
 
 <br><br>
 
