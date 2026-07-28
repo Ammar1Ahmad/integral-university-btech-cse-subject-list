@@ -144,31 +144,6 @@ Continuously maintained documentation designed for current students, future batc
 
 ---
 
-# Repository Architecture
-
-```text
-B.Tech Computer Science & Engineering
-│
-├── Semester I
-├── Semester II
-├── Semester III
-├── Semester IV
-├── Semester V
-├── Semester VI
-├── Semester VII
-└── Semester VIII
-        │
-        ├── Subject
-        │      ├── README
-        │      ├── Notes
-        │      ├── Syllabus
-        │      ├── Assignments
-        │      ├── Practical Files
-        │      ├── Previous Year Papers
-        │      └── Additional Resources
-        │
-        └── Continuous Updates
-```
 
 ---
 
