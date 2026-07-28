@@ -130,151 +130,135 @@ Rather than functioning as a notes repository, this project serves as a centrali
 
 ---
 
-# 📚 Curriculum Overview
+# Curriculum
 
-| Semester | Academic Year | Subjects |
-|-----------|---------------|-----------|
-| Semester 1 | 2022–23 | 9 |
-| Semester 2 | 2022–23 | 9 |
-| Semester 3 | 2023–24 | 11 |
-| Semester 4 | 2023–24 | 11 |
-| Semester 5 | 2024–25 | 11 |
-| Semester 6 | 2024–25 | 11 |
-| Semester 7 | 2025–26 | 10 |
-| Semester 8 | 2025–26 | 4 |
+## Semester I (2022–23)
 
----
-
-# 📘 Semester 1 (2022–23)
-
-| Code | Subject |
-|------|----------|
-| EC101 | Basic Electronics |
-| EE103 | Basic Electrical Engineering |
-| LN101 | Basic Professional Communication |
-| MT101 | Engineering Mathematics I |
-| PY101 | Physics |
-| EE104 | Electrical Engineering Lab |
-| ME103 | Engineering Graphics |
-| ME104 | Workshop Practice |
-| PY104 | Physics Lab |
+| Course Code | Subject | Type | Resources |
+|:------------|:--------|:----:|:----------|
+| EC101 | Basic Electronics | Theory | <a href="Semester-01/EC101-Basic-Electronics/">View Notes →</a> |
+| EE103 | Basic Electrical Engineering | Theory | <a href="Semester-01/EE103-Basic-Electrical-Engineering/">View Notes →</a> |
+| LN101 | Basic Professional Communication | Theory | <a href="Semester-01/LN101-Basic-Professional-Communication/">View Notes →</a> |
+| MT101 | Engineering Mathematics I | Theory | <a href="Semester-01/MT101-Engineering-Mathematics-I/">View Notes →</a> |
+| PY101 | Physics | Theory | <a href="Semester-01/PY101-Physics/">View Notes →</a> |
+| EE104 | Electrical Engineering Lab | Lab | <a href="Semester-01/EE104-Electrical-Engineering-Lab/">View Notes →</a> |
+| ME103 | Engineering Graphics | Practical | <a href="Semester-01/ME103-Engineering-Graphics/">View Notes →</a> |
+| ME104 | Workshop Practice | Practical | <a href="Semester-01/ME104-Workshop-Practice/">View Notes →</a> |
+| PY104 | Physics Lab | Lab | <a href="Semester-01/PY104-Physics-Lab/">View Notes →</a> |
 
 ---
 
-# 📗 Semester 2 (2022–23)
+## Semester II (2022–23)
 
-| Code | Subject |
-|------|----------|
-| CH101 | Chemistry |
-| CS101 | Computer Programming |
-| ES101 | Environmental Studies |
-| ME101 | Basic Mechanical Engineering |
-| MT112 | Engineering Mathematics II |
-| CH102 | Chemistry Lab |
-| CS102 | Computer Programming Lab |
-| LN151 | Professional Communication Lab |
-| ME102 | Mechanical Engineering Lab |
+| Course Code | Subject | Type | Resources |
+|:------------|:--------|:----:|:----------|
+| CH101 | Chemistry | Theory | <a href="Semester-02/CH101-Chemistry/">View Notes →</a> |
+| CS101 | Computer Programming | Theory | <a href="Semester-02/CS101-Computer-Programming/">View Notes →</a> |
+| ES101 | Environmental Studies | Theory | <a href="Semester-02/ES101-Environmental-Studies/">View Notes →</a> |
+| ME101 | Basic Mechanical Engineering | Theory | <a href="Semester-02/ME101-Basic-Mechanical-Engineering/">View Notes →</a> |
+| MT112 | Engineering Mathematics II | Theory | <a href="Semester-02/MT112-Engineering-Mathematics-II/">View Notes →</a> |
+| CH102 | Chemistry Lab | Lab | <a href="Semester-02/CH102-Chemistry-Lab/">View Notes →</a> |
+| CS102 | Computer Programming Lab | Lab | <a href="Semester-02/CS102-Computer-Programming-Lab/">View Notes →</a> |
+| LN151 | Professional Communication Lab | Lab | <a href="Semester-02/LN151-Professional-Communication-Lab/">View Notes →</a> |
+| ME102 | Mechanical Engineering Lab | Lab | <a href="Semester-02/ME102-Mechanical-Engineering-Lab/">View Notes →</a> |
 
----
+## Semester III (2023–24)
 
-# 📙 Semester 3 (2023–24)
-
-| Code | Subject |
-|------|----------|
-| BM225 | Principles of Management & Engineering Economics |
-| CS203 | Cyber Law & Information Security |
-| CS204 | Data Structure using C |
-| CS206 | Discrete Structure |
-| CS270 | Object Oriented Concepts Using Java |
-| EC209 | Digital Electronics |
-| CS208 | Data Structure Using C Lab |
-| CS271 | Object Oriented Concepts Using Java Lab |
-| CS272 | Python Programming Lab |
-| EC214 | Digital Electronics Lab |
-| HM226 | Human Values & Professional Ethics |
+| Course Code | Subject | Type | Resources |
+|:------------|:--------|:----:|:----------|
+| BM225 | Principles of Management & Engineering Economics | Theory | <a href="Semester-03/BM225-Principles-of-Management-and-Engineering-Economics/">View Notes →</a> |
+| CS203 | Cyber Law & Information Security | Theory | <a href="Semester-03/CS203-Cyber-Law-and-Information-Security/">View Notes →</a> |
+| CS204 | Data Structure Using C | Theory | <a href="Semester-03/CS204-Data-Structure-Using-C/">View Notes →</a> |
+| CS206 | Discrete Structure | Theory | <a href="Semester-03/CS206-Discrete-Structure/">View Notes →</a> |
+| CS270 | Object Oriented Concepts Using Java | Theory | <a href="Semester-03/CS270-Object-Oriented-Concepts-Using-Java/">View Notes →</a> |
+| EC209 | Digital Electronics | Theory | <a href="Semester-03/EC209-Digital-Electronics/">View Notes →</a> |
+| CS208 | Data Structure Using C Lab | Lab | <a href="Semester-03/CS208-Data-Structure-Using-C-Lab/">View Notes →</a> |
+| CS271 | Object Oriented Concepts Using Java Lab | Lab | <a href="Semester-03/CS271-Object-Oriented-Concepts-Using-Java-Lab/">View Notes →</a> |
+| CS272 | Python Programming Lab | Lab | <a href="Semester-03/CS272-Python-Programming-Lab/">View Notes →</a> |
+| EC214 | Digital Electronics Lab | Lab | <a href="Semester-03/EC214-Digital-Electronics-Lab/">View Notes →</a> |
+| HM226 | Human Values & Professional Ethics | Theory | <a href="Semester-03/HM226-Human-Values-and-Professional-Ethics/">View Notes →</a> |
 
 ---
 
-# 📕 Semester 4 (2023–24)
+## Semester IV (2023–24)
 
-| Code | Subject |
-|------|----------|
-| CS212 | Database Management System |
-| CS284 | Computer Organization & Architecture |
-| CS290 | Full Stack Development – Front End |
-| CS292 | Theory of Computation |
-| ES202 | Disaster Management |
-| MT238 | Mathematical Analysis for CSE |
-| CS220 | Database Management System Lab |
-| CS282 | Advanced Java Programming Lab |
-| CS285 | Computer Organization & Architecture Lab |
-| CS286 | Comprehensive Annual Assessment – I |
-| CS291 | Full Stack Development – Front End Lab |
-
----
-
-# 📒 Semester 5 (2024–25)
-
-| Code | Subject |
-|------|----------|
-| CS301 | Design and Analysis of Algorithm |
-| CS303 | Principles of Operating System |
-| CS334 | Cloud Computing |
-| CS336 | Full Stack Development – Backend |
-| CS339 | Introduction to Artificial Intelligence |
-| CS342 | Data Compression |
-| CS302 | Design and Analysis of Algorithm Lab |
-| CS337 | Full Stack Development – Backend Lab |
-| CS338 | Mobile App Development Lab |
-| CS390 | Industrial Training / Internship / Apprenticeship – II |
-| CG301 | Career Development Course |
+| Course Code | Subject | Type | Resources |
+|:------------|:--------|:----:|:----------|
+| CS212 | Database Management System | Theory | <a href="Semester-04/CS212-Database-Management-System/">View Notes →</a> |
+| CS284 | Computer Organization & Architecture | Theory | <a href="Semester-04/CS284-Computer-Organization-and-Architecture/">View Notes →</a> |
+| CS290 | Full Stack Development – Front End | Theory | <a href="Semester-04/CS290-Full-Stack-Development-Front-End/">View Notes →</a> |
+| CS292 | Theory of Computation | Theory | <a href="Semester-04/CS292-Theory-of-Computation/">View Notes →</a> |
+| ES202 | Disaster Management | Theory | <a href="Semester-04/ES202-Disaster-Management/">View Notes →</a> |
+| MT238 | Mathematical Analysis for Computer Science & Engineering | Theory | <a href="Semester-04/MT238-Mathematical-Analysis-for-Computer-Science-and-Engineering/">View Notes →</a> |
+| CS220 | Database Management System Lab | Lab | <a href="Semester-04/CS220-Database-Management-System-Lab/">View Notes →</a> |
+| CS282 | Advanced Java Programming Lab | Lab | <a href="Semester-04/CS282-Advanced-Java-Programming-Lab/">View Notes →</a> |
+| CS285 | Computer Organization & Architecture Lab | Lab | <a href="Semester-04/CS285-Computer-Organization-and-Architecture-Lab/">View Notes →</a> |
+| CS286 | Comprehensive Annual Assessment – I | Assessment | <a href="Semester-04/CS286-Comprehensive-Annual-Assessment-I/">View Notes →</a> |
+| CS291 | Full Stack Development – Front End Lab | Lab | <a href="Semester-04/CS291-Full-Stack-Development-Front-End-Lab/">View Notes →</a> |
 
 ---
 
-# 📓 Semester 6 (2024–25)
+## Semester V (2024–25)
 
-| Code | Subject |
-|------|----------|
-| CS305 | Computer Networks |
-| CS313 | Microprocessor and its Applications |
-| CS315 | Compiler Design |
-| CS320 | Real Time System |
-| CS348 | Human Computer Interaction |
-| EC339 | Solar Engineering |
-| CS306 | Computer Network Lab |
-| CS314 | Microprocessor Lab |
-| CS316 | Compiler Design Lab |
-| CS386 | Comprehensive Annual Assessment – II |
-| CG302 | Career Development Course |
-
----
-
-# 📔 Semester 7 (2025–26)
-
-| Code | Subject |
-|------|----------|
-| CS410 | Distributed Systems |
-| CS412 | Cryptography and Network Security |
-| CS417 | Mobile Computing |
-| CS418 | Data Warehousing & Data Mining |
-| CS425 | Introduction to Machine Learning |
-| CS400 | Industrial Training / Internship / Apprenticeship – III |
-| CS421 | Project Part I |
-| CS424 | SciLab |
-| CS426 | Competitive Coding |
-| CG401 | Career Development Course |
+| Course Code | Subject | Type | Resources |
+|:------------|:--------|:----:|:----------|
+| CS301 | Design and Analysis of Algorithm | Theory | <a href="Semester-05/CS301-Design-and-Analysis-of-Algorithm/">View Notes →</a> |
+| CS303 | Principles of Operating System | Theory | <a href="Semester-05/CS303-Principles-of-Operating-System/">View Notes →</a> |
+| CS334 | Cloud Computing | Theory | <a href="Semester-05/CS334-Cloud-Computing/">View Notes →</a> |
+| CS336 | Full Stack Development – Backend | Theory | <a href="Semester-05/CS336-Full-Stack-Development-Backend/">View Notes →</a> |
+| CS339 | Introduction to Artificial Intelligence | Theory | <a href="Semester-05/CS339-Introduction-to-Artificial-Intelligence/">View Notes →</a> |
+| CS342 | Data Compression | Theory | <a href="Semester-05/CS342-Data-Compression/">View Notes →</a> |
+| CS302 | Design and Analysis of Algorithm Lab | Lab | <a href="Semester-05/CS302-Design-and-Analysis-of-Algorithm-Lab/">View Notes →</a> |
+| CS337 | Full Stack Development – Backend Lab | Lab | <a href="Semester-05/CS337-Full-Stack-Development-Backend-Lab/">View Notes →</a> |
+| CS338 | Mobile App Development Lab | Lab | <a href="Semester-05/CS338-Mobile-App-Development-Lab/">View Notes →</a> |
+| CS390 | Industrial Training / Internship / Apprenticeship – II | Internship | <a href="Semester-05/CS390-Industrial-Training-Internship-Apprenticeship-II/">View Notes →</a> |
+| CG301 | Career Development Course | Professional | <a href="Semester-05/CG301-Career-Development-Course/">View Notes →</a> |
 
 ---
 
-# 📘 Semester 8 (2025–26)
+## Semester VI (2024–25)
 
-| Code | Subject |
-|------|----------|
-| EE343 | Renewable Energy Technology |
-| CS451 | Seminar |
-| CS452 | Comprehensive Viva |
-| CS499 | B.Tech Project |
+| Course Code | Subject | Type | Resources |
+|:------------|:--------|:----:|:----------|
+| CS305 | Computer Networks | Theory | <a href="Semester-06/CS305-Computer-Networks/">View Notes →</a> |
+| CS313 | Microprocessor and its Applications | Theory | <a href="Semester-06/CS313-Microprocessor-and-Its-Applications/">View Notes →</a> |
+| CS315 | Compiler Design | Theory | <a href="Semester-06/CS315-Compiler-Design/">View Notes →</a> |
+| CS320 | Real Time System | Theory | <a href="Semester-06/CS320-Real-Time-System/">View Notes →</a> |
+| CS348 | Human Computer Interaction | Theory | <a href="Semester-06/CS348-Human-Computer-Interaction/">View Notes →</a> |
+| EC339 | Solar Engineering | Theory | <a href="Semester-06/EC339-Solar-Engineering/">View Notes →</a> |
+| CS306 | Computer Network Lab | Lab | <a href="Semester-06/CS306-Computer-Network-Lab/">View Notes →</a> |
+| CS314 | Microprocessor Lab | Lab | <a href="Semester-06/CS314-Microprocessor-Lab/">View Notes →</a> |
+| CS316 | Compiler Design Lab | Lab | <a href="Semester-06/CS316-Compiler-Design-Lab/">View Notes →</a> |
+| CS386 | Comprehensive Annual Assessment – II | Assessment | <a href="Semester-06/CS386-Comprehensive-Annual-Assessment-II/">View Notes →</a> |
+| CG302 | Career Development Course | Professional | <a href="Semester-06/CG302-Career-Development-Course/">View Notes →</a> |
 
+---
+
+## Semester VII (2025–26)
+
+| Course Code | Subject | Type | Resources |
+|:------------|:--------|:----:|:----------|
+| CS410 | Distributed Systems | Theory | <a href="Semester-07/CS410-Distributed-Systems/">View Notes →</a> |
+| CS412 | Cryptography and Network Security | Theory | <a href="Semester-07/CS412-Cryptography-and-Network-Security/">View Notes →</a> |
+| CS417 | Mobile Computing | Theory | <a href="Semester-07/CS417-Mobile-Computing/">View Notes →</a> |
+| CS418 | Data Warehousing & Data Mining | Theory | <a href="Semester-07/CS418-Data-Warehousing-and-Data-Mining/">View Notes →</a> |
+| CS425 | Introduction to Machine Learning | Theory | <a href="Semester-07/CS425-Introduction-to-Machine-Learning/">View Notes →</a> |
+| CS400 | Industrial Training / Internship / Apprenticeship – III | Internship | <a href="Semester-07/CS400-Industrial-Training-Internship-Apprenticeship-III/">View Notes →</a> |
+| CS421 | Project Part I | Project | <a href="Semester-07/CS421-Project-Part-I/">View Notes →</a> |
+| CS424 | SciLab | Practical | <a href="Semester-07/CS424-SciLab/">View Notes →</a> |
+| CS426 | Competitive Coding | Practical | <a href="Semester-07/CS426-Competitive-Coding/">View Notes →</a> |
+| CG401 | Career Development Course | Professional | <a href="Semester-07/CG401-Career-Development-Course/">View Notes →</a> |
+
+---
+
+## Semester VIII (2025–26)
+
+| Course Code | Subject | Type | Resources |
+|:------------|:--------|:----:|:----------|
+| EE343 | Renewable Energy Technology | Theory | <a href="Semester-08/EE343-Renewable-Energy-Technology/">View Notes →</a> |
+| CS451 | Seminar | Seminar | <a href="Semester-08/CS451-Seminar/">View Notes →</a> |
+| CS452 | Comprehensive Viva | Viva | <a href="Semester-08/CS452-Comprehensive-Viva/">View Notes →</a> |
+| CS499 | B.Tech Project | Project | <a href="Semester-08/CS499-BTech-Project/">View Notes →</a> |
 ---
 
 # 📊 Statistics
