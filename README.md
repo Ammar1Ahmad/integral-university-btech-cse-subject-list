@@ -261,50 +261,524 @@ Rather than functioning as a notes repository, this project serves as a centrali
 | CS499 | B.Tech Project | Project | <a href="Semester-08/CS499-BTech-Project/">View Notes →</a> |
 ---
 
-# 📊 Statistics
+---
 
-| Category | Count |
-|----------|------:|
-| Total Semesters | 8 |
-| Academic Years | 4 |
-| Theory Subjects | 50+ |
-| Laboratory Courses | 18+ |
-| Projects | 2 |
-| Internship Courses | 2 |
-| Career Development Courses | 3 |
-| Total Courses | 75 |
+# Curriculum Analytics Dashboard
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+<h2>75</h2>
+<b>Total Courses</b><br>
+<sub>Across 8 Semesters</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<h2>8</h2>
+<b>Semesters</b><br>
+<sub>2022 – 2026</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<h2>38</h2>
+<b>Theory</b><br>
+<sub>Core Courses</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<h2>22</h2>
+<b>Laboratories</b><br>
+<sub>Practical Courses</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<h2>15</h2>
+<b>Professional</b><br>
+<sub>Projects + Training</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🎯 Who is this Repository for?
+# Course Distribution
 
-- B.Tech CSE Students
-- Freshers
-- Seniors
-- Semester Preparation
-- Placement Preparation
-- GATE Aspirants
-- Developers
-- Alumni
+<table width="100%">
+
+<tr>
+
+<th align="left">Category</th>
+<th width="70%">Distribution</th>
+<th>Count</th>
+
+</tr>
+
+<tr>
+
+<td><b>Theory Courses</b></td>
+
+<td>
+
+██████████████████████████████████████
+
+</td>
+
+<td><b>38</b></td>
+
+</tr>
+
+<tr>
+
+<td><b>Laboratory Courses</b></td>
+
+<td>
+
+██████████████████████
+
+</td>
+
+<td><b>22</b></td>
+
+</tr>
+
+<tr>
+
+<td><b>Career Development</b></td>
+
+<td>
+
+███
+
+</td>
+
+<td><b>3</b></td>
+
+</tr>
+
+<tr>
+
+<td><b>Industrial Training</b></td>
+
+<td>
+
+██
+
+</td>
+
+<td><b>2</b></td>
+
+</tr>
+
+<tr>
+
+<td><b>Projects</b></td>
+
+<td>
+
+██
+
+</td>
+
+<td><b>2</b></td>
+
+</tr>
+
+<tr>
+
+<td><b>Assessment</b></td>
+
+<td>
+
+██
+
+</td>
+
+<td><b>2</b></td>
+
+</tr>
+
+<tr>
+
+<td><b>Seminar & Viva</b></td>
+
+<td>
+
+██
+
+</td>
+
+<td><b>2</b></td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🤝 Contributions
+# Semester Progress
 
-If you find any missing subject, typo, or curriculum update, feel free to open an Issue or submit a Pull Request.
+| Semester | Courses | Progress |
+|:---------|:-------:|:---------|
+| Semester I | 9 | 🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
+| Semester II | 9 | 🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
+| Semester III | 11 | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
+| Semester IV | 11 | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
+| Semester V | 11 | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
+| Semester VI | 11 | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
+| Semester VII | 10 | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
+| Semester VIII | 4 | 🟦🟦🟦🟦 |
 
 ---
 
-# ⭐ Support
+# Academic Timeline
 
-If this repository helped you,
+```text
+Year 1
+Semester I  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Semester II ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-⭐ Star the repository
+Year 2
+Semester III ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Semester IV  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🍴 Fork it
+Year 3
+Semester V  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Semester VI ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📢 Share it with your classmates
+Year 4
+Semester VII ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Semester VIII ━━━━━━━━━━━━
+```
 
+---
+
+# Coverage
+
+```text
+████████████████████████████████████████ 100%
+
+Theory                  38
+Laboratories            22
+Projects                 2
+Training                 2
+Career Development       3
+Seminar & Viva           2
+Assessments              2
+```
+
+---
+
+<div align="center">
+
+### Curriculum Coverage
+
+| Academic Year | Completion |
+|---------------|------------|
+| First Year | ████████████████████ 100% |
+| Second Year | ████████████████████ 100% |
+| Third Year | ████████████████████ 100% |
+| Fourth Year | ████████████████████ 100% |
+
+</div>
+
+---
+
+---
+
+# Intended Audience
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<h3>Students</h3>
+
+Undergraduate students pursuing the B.Tech Computer Science & Engineering program who require semester-wise study materials, syllabus references, laboratory resources, and academic guidance.
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Competitive Exam Aspirants</h3>
+
+Learners preparing for GATE, university examinations, technical interviews, coding assessments, and higher education entrance examinations.
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Developers</h3>
+
+Students and professionals interested in strengthening their understanding of core computer science concepts, programming, cloud computing, operating systems, databases, and software engineering.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+<h3>Freshers</h3>
+
+Newly admitted students seeking a structured roadmap to understand the complete curriculum before beginning their academic journey.
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Senior Students</h3>
+
+Students looking for consolidated notes, previous semester references, project resources, laboratory manuals, and revision material.
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Alumni</h3>
+
+Graduates wishing to revisit academic concepts, reference university coursework, or contribute educational resources back to the community.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# Repository Usage
+
+<div align="center">
+
+| Academic Purpose | Availability |
+|:-----------------|:------------:|
+| Semester-wise Study Material | ✓ |
+| Unit Notes | ✓ |
+| Laboratory Manuals | ✓ |
+| Previous Year Questions | ✓ |
+| Syllabus Reference | ✓ |
+| Practical Programs | ✓ |
+| Project Documentation | ✓ |
+| Internship Resources | ✓ |
+| Placement Preparation | ✓ |
+| Interview Revision | ✓ |
+| GATE Preparation | ✓ |
+
+</div>
+
+---
+
+# Primary Use Cases
+
+<div align="center">
+
+| Category | Description |
+|:---------|:------------|
+| Academic Learning | Complete semester-wise curriculum with organized subject resources |
+| Examination Preparation | Notes, important topics, and revision material for university examinations |
+| Practical Learning | Laboratory exercises, source code, practical files, and implementation guides |
+| Career Preparation | Placement resources, interview preparation, and technical fundamentals |
+| Higher Education | Foundation material for GATE and postgraduate entrance examinations |
+| Community Contribution | Open repository for students, alumni, and contributors to improve learning resources |
+
+</div>
+
+---
+---
+---
+
+# Community & Contributions
+
+<div align="center">
+
+<h2>Help Improve This Repository</h2>
+
+<p>
+This repository is maintained as an open educational resource for the Computer Science & Engineering community.
+Contributions that improve the quality, accuracy, or completeness of the curriculum are always welcome.
+</p>
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<h3>Report Issues</h3>
+
+Found an incorrect course, outdated syllabus, broken link, or missing resource?
+
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues/new">
+<img src="https://img.shields.io/badge/Open-Issue-red?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Submit Changes</h3>
+
+Improve notes, documentation, laboratory resources, or curriculum information by creating a Pull Request.
+
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/pulls">
+<img src="https://img.shields.io/badge/Pull-Request-blue?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Repository Discussions</h3>
+
+Share ideas, ask academic questions, and collaborate with other students.
+
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/discussions">
+<img src="https://img.shields.io/badge/Join-Discussion-success?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Support the Project
+
+<div align="center">
+
+<h2>If this repository adds value to your learning, consider supporting it.</h2>
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/Star%20Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/fork">
+<img src="https://img.shields.io/badge/Fork%20Repository-0969DA?style=for-the-badge&logo=github">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues">
+<img src="https://img.shields.io/badge/Report-Issue-red?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+# Share This Repository
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+
+<img src="https://img.shields.io/badge/Share-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://twitter.com/intent/tweet?url=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+
+<img src="https://img.shields.io/badge/Share-X-000000?style=for-the-badge&logo=x">
+
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+
+<img src="https://img.shields.io/badge/Share-Facebook-1877F2?style=for-the-badge&logo=facebook">
+
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://api.whatsapp.com/send?text=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+
+<img src="https://img.shields.io/badge/Share-WhatsApp-25D366?style=for-the-badge&logo=whatsapp">
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h3>Repository URL</h3>
+
+<code>https://github.com/YOUR_USERNAME/YOUR_REPOSITORY</code>
+
+</div>
+
+---
+
+# Ways to Contribute
+
+<div align="center">
+
+| Contribution Area | Status |
+|:------------------|:------:|
+| Semester Notes | Welcome |
+| Unit-wise Notes | Welcome |
+| Previous Year Papers | Welcome |
+| Laboratory Programs | Welcome |
+| Practical Manuals | Welcome |
+| Syllabus Updates | Welcome |
+| Documentation Improvements | Welcome |
+| Bug Reports | Welcome |
+| Feature Suggestions | Welcome |
+
+</div>
+
+---
 ---
 
 # Disclaimer
