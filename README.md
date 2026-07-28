@@ -19,19 +19,86 @@
 
 ---
 
-# 📌 About
+---
 
-This repository contains the complete **semester-wise curriculum** followed by the **B.Tech Computer Science & Engineering (CSE)** program for the **2022–2026 batch** at **Integral University, Lucknow**.
+# About
 
-It is intended to help:
+This repository provides a structured reference for the **Bachelor of Technology (B.Tech.) in Computer Science & Engineering** curriculum offered by **Integral University, Lucknow** for the **2022–2026 academic batch**.
 
-- 🎓 Current Students
-- 👨‍💻 Freshers
-- 📚 Seniors
-- 📖 Students preparing for semester examinations
-- 💼 Placement preparation
-- 🚀 Open-source contributors
-- 📝 Resume preparation
+It consolidates the complete semester-wise course structure, including theory subjects, laboratory courses, internships, projects, and career development modules into a single, well-organized resource.
+
+Designed as a long-term academic reference, this repository enables students to quickly explore the curriculum across all eight semesters without navigating multiple documents or mark sheets.
+
+---
+
+## Key Features
+
+- Complete curriculum for the **2022–2026 B.Tech CSE batch**
+- Semester-wise organization from Semester I to Semester VIII
+- Course codes with official subject titles
+- Theory, laboratory, project, seminar, and internship courses
+- Academic year mapping for every semester
+- Clean documentation with easy navigation
+- Suitable for academic planning and curriculum reference
+
+---
+
+## Intended Audience
+
+This repository is useful for:
+
+- Undergraduate students enrolled in the B.Tech CSE program
+- Newly admitted students exploring the curriculum
+- Senior students reviewing previous or upcoming semesters
+- Students preparing academic plans and semester schedules
+- Placement and higher education aspirants
+- Alumni seeking curriculum references
+- Faculty members and academic mentors
+- Developers building educational resources based on the curriculum
+
+---
+
+## Repository Structure
+
+```text
+integral-university-btech-cse-2022-2026-curriculum
+│
+├── Semester-01
+├── Semester-02
+├── Semester-03
+├── Semester-04
+├── Semester-05
+├── Semester-06
+├── Semester-07
+├── Semester-08
+│
+├── Course Statistics
+├── Academic Overview
+├── Subject Index
+└── README.md
+```
+
+---
+
+## Curriculum Coverage
+
+| Program | Bachelor of Technology |
+|----------|------------------------|
+| Branch | Computer Science & Engineering |
+| University | Integral University, Lucknow |
+| Batch | 2022–2026 |
+| Duration | 4 Years |
+| Total Semesters | 8 |
+| Total Courses | 75 |
+| Documentation Type | Semester-wise Curriculum Reference |
+
+---
+
+## Purpose
+
+The primary objective of this repository is to preserve and document the official semester-wise course structure followed by the **2022–2026 B.Tech Computer Science & Engineering batch** at **Integral University**.
+
+Rather than functioning as a notes repository, this project serves as a centralized curriculum reference that can assist students in academic planning, subject tracking, project organization, resume preparation, and future curriculum comparisons.
 
 ---
 
