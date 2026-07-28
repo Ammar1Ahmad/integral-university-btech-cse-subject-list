@@ -283,24 +283,61 @@ Batch Duration
 
 ---
 
-# Program Structure
+
+
+# Curriculum Analytics Dashboard
 
 <div align="center">
 
-| Category | Coverage |
-|:---------|:-------:|
-| Theory Courses | Complete |
-| Laboratory Courses | Complete |
-| Projects | Included |
-| Internship Training | Included |
-| Career Development | Included |
-| Seminar & Viva | Included |
-| Semester-wise Documentation | Complete |
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+<h2>75</h2>
+<b>Total Courses</b><br>
+<sub>Across 8 Semesters</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<h2>8</h2>
+<b>Semesters</b><br>
+<sub>2022 – 2026</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<h2>38</h2>
+<b>Theory</b><br>
+<sub>Core Courses</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<h2>22</h2>
+<b>Laboratories</b><br>
+<sub>Practical Courses</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<h2>15</h2>
+<b>Professional</b><br>
+<sub>Projects + Training</sub>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
-
 # Curriculum
 
 ## Semester I (2022–23)
@@ -434,59 +471,6 @@ Batch Duration
 
 ---
 
-# Curriculum Analytics Dashboard
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-<h2>75</h2>
-<b>Total Courses</b><br>
-<sub>Across 8 Semesters</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<h2>8</h2>
-<b>Semesters</b><br>
-<sub>2022 – 2026</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<h2>38</h2>
-<b>Theory</b><br>
-<sub>Core Courses</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<h2>22</h2>
-<b>Laboratories</b><br>
-<sub>Practical Courses</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<h2>15</h2>
-<b>Professional</b><br>
-<sub>Projects + Training</sub>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
 
 # Course Distribution
 
