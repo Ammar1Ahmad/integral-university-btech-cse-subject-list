@@ -21,62 +21,167 @@
 
 ---
 
-# About
+---
 
-This repository provides a structured reference for the **Bachelor of Technology (B.Tech.) in Computer Science & Engineering** curriculum offered by **Integral University, Lucknow** for the **2022–2026 academic batch**.
+# About the Repository
 
-It consolidates the complete semester-wise course structure, including theory subjects, laboratory courses, internships, projects, and career development modules into a single, well-organized resource.
+<div align="center">
 
-Designed as a long-term academic reference, this repository enables students to quickly explore the curriculum across all eight semesters without navigating multiple documents or mark sheets.
+<h3>
+A comprehensive academic documentation repository for the
+<br>
+Bachelor of Technology (B.Tech.) in Computer Science & Engineering
+</h3>
+
+<p>
+
+Designed to serve as a centralized reference for the complete
+<strong>2022–2026</strong> curriculum of
+<strong>Integral University, Lucknow</strong>, this repository
+organizes every semester, course, laboratory, internship,
+project, and academic resource into a structured documentation
+experience.
+
+</p>
+
+</div>
 
 ---
 
-## Key Features
+<table>
 
-- Complete curriculum for the **2022–2026 B.Tech CSE batch**
-- Semester-wise organization from Semester I to Semester VIII
-- Course codes with official subject titles
-- Theory, laboratory, project, seminar, and internship courses
-- Academic year mapping for every semester
-- Clean documentation with easy navigation
-- Suitable for academic planning and curriculum reference
+<tr>
+
+<td width="55%">
+
+## Overview
+
+This repository has been developed to provide a centralized and well-structured reference for the complete Bachelor of Technology (B.Tech.) Computer Science & Engineering curriculum.
+
+Rather than navigating multiple university documents, mark sheets, or departmental resources, students can access the entire academic journey—from the first semester to the final project—through a single, organized repository.
+
+The objective is to create a long-term educational resource that supports academic learning, examination preparation, practical implementation, and future curriculum updates.
+
+</td>
+
+<td width="45%">
+
+| Information | Details |
+|:------------|:--------|
+| University | Integral University, Lucknow |
+| Degree | Bachelor of Technology |
+| Program | Computer Science & Engineering |
+| Academic Batch | 2022 – 2026 |
+| Duration | 4 Years |
+| Semesters | 8 |
+| Repository Type | Academic Documentation |
+| Status | Active Development |
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## Intended Audience
+# Repository Highlights
 
-This repository is useful for:
+<table>
 
-- Undergraduate students enrolled in the B.Tech CSE program
-- Newly admitted students exploring the curriculum
-- Senior students reviewing previous or upcoming semesters
-- Students preparing academic plans and semester schedules
-- Placement and higher education aspirants
-- Alumni seeking curriculum references
-- Faculty members and academic mentors
-- Developers building educational resources based on the curriculum
+<tr>
+
+<td width="33%" align="center">
+
+<h3>Complete Curriculum</h3>
+
+Semester-wise organization covering all academic years with structured navigation and documentation.
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Academic Resources</h3>
+
+Subject-wise notes, laboratory manuals, previous year papers, syllabus, assignments, and learning resources.
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Long-Term Reference</h3>
+
+Continuously maintained documentation designed for current students, future batches, alumni, and contributors.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## Repository Structure
+# What You'll Find
+
+<div align="center">
+
+| Resource | Coverage |
+|:----------|:--------:|
+| Semester-wise Curriculum | ✓ |
+| Subject Documentation | ✓ |
+| Unit-wise Notes | ✓ |
+| Laboratory Resources | ✓ |
+| Practical Programs | ✓ |
+| Previous Year Questions | ✓ |
+| Assignments | ✓ |
+| Project Documentation | ✓ |
+| Internship Resources | ✓ |
+| Career Development | ✓ |
+| Examination Preparation | ✓ |
+| Future Curriculum Updates | ✓ |
+
+</div>
+
+---
+
+# Repository Architecture
 
 ```text
-integral-university-btech-cse-2022-2026-curriculum
+B.Tech Computer Science & Engineering
 │
-├── Semester-01
-├── Semester-02
-├── Semester-03
-├── Semester-04
-├── Semester-05
-├── Semester-06
-├── Semester-07
-├── Semester-08
-│
-├── Course Statistics
-├── Academic Overview
-├── Subject Index
-└── README.md
+├── Semester I
+├── Semester II
+├── Semester III
+├── Semester IV
+├── Semester V
+├── Semester VI
+├── Semester VII
+└── Semester VIII
+        │
+        ├── Subject
+        │      ├── README
+        │      ├── Notes
+        │      ├── Syllabus
+        │      ├── Assignments
+        │      ├── Practical Files
+        │      ├── Previous Year Papers
+        │      └── Additional Resources
+        │
+        └── Continuous Updates
 ```
+
+---
+
+# Repository Objectives
+
+- Preserve the complete academic curriculum in a structured format.
+- Provide a single source of truth for semester-wise course information.
+- Simplify navigation across all theory, laboratory, and project courses.
+- Support university examinations, placements, and competitive examinations.
+- Encourage collaborative contributions from students and alumni.
+- Build an open educational resource for future Computer Science & Engineering students.
+
+---
 
 ---
 
@@ -100,33 +205,125 @@ The primary objective of this repository is to preserve and document the officia
 
 Rather than functioning as a notes repository, this project serves as a centralized curriculum reference that can assist students in academic planning, subject tracking, project organization, resume preparation, and future curriculum comparisons.
 
----
-
-# 🎯 Repository Features
-
-- ✅ Semester-wise subject list
-- ✅ Course codes
-- ✅ Lab subjects
-- ✅ Practical courses
-- ✅ Internship subjects
-- ✅ Project subjects
-- ✅ Career Development Courses
-- ✅ Easy navigation
-- ✅ Clean documentation
 
 ---
 
-# 🏛 University Information
+<div align="center">
 
-| Item | Details |
-|------|----------|
-| University | Integral University |
-| Location | Lucknow, Uttar Pradesh |
-| Program | Bachelor of Technology |
-| Branch | Computer Science & Engineering |
-| Duration | 4 Years |
-| Total Semesters | 8 |
-| Batch | 2022–2026 |
+<img src="assets/integral-university-banner.png" width="100%" alt="Integral University Banner">
+
+<br><br>
+
+# Integral University
+
+### Bachelor of Technology (B.Tech.) • Computer Science & Engineering
+
+Academic Curriculum Documentation (2022 – 2026)
+
+</div>
+
+---
+
+# University Overview
+
+<table>
+
+<tr>
+
+<td width="62%">
+
+## About the University
+
+Integral University is a multidisciplinary institution located in **Lucknow, Uttar Pradesh**, recognized for its commitment to excellence in higher education, research, innovation, and professional development.
+
+This repository documents the complete **Bachelor of Technology (B.Tech.) in Computer Science & Engineering** curriculum for the **2022–2026 academic batch**, providing a centralized academic reference for students, educators, and contributors.
+
+</td>
+
+<td width="38%">
+
+| Academic Information | Details |
+|:---------------------|:--------|
+| **University** | Integral University |
+| **Campus** | Lucknow, Uttar Pradesh |
+| **Program** | Bachelor of Technology |
+| **Department** | Computer Science & Engineering |
+| **Academic Duration** | 4 Years |
+| **Semesters** | 8 |
+| **Batch** | 2022 – 2026 |
+| **Repository Version** | 2026 Edition |
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Academic Snapshot
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<h2>8</h2>
+
+Academic Semesters
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>75</h2>
+
+Total Courses
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>4</h2>
+
+Academic Years
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>2022–2026</h2>
+
+Batch Duration
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# Program Structure
+
+<div align="center">
+
+| Category | Coverage |
+|:---------|:-------:|
+| Theory Courses | Complete |
+| Laboratory Courses | Complete |
+| Projects | Included |
+| Internship Training | Included |
+| Career Development | Included |
+| Seminar & Viva | Included |
+| Semester-wise Documentation | Complete |
+
+</div>
 
 ---
 
@@ -754,7 +951,7 @@ Share ideas, ask academic questions, and collaborate with other students.
 
 <h3>Repository URL</h3>
 
-<code>https://github.com/YOUR_USERNAME/YOUR_REPOSITORY</code>
+<code>https://github.com/Ammar1Ahmad/integral-university-btech-cse-subject-list/blob/main/README.md</code>
 
 </div>
 
