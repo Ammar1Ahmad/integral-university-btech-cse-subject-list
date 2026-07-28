@@ -915,7 +915,7 @@ Share ideas, ask academic questions, and collaborate with other students.
 
 <td align="center" width="25%">
 
-<a href="https://twitter.com/intent/tweet?url=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+<a href="https://twitter.com/intent/tweet?url=https://github.com/Ammar1Ahmad/integral-university-btech-cse-subject-list/blob/main/README.md">
 
 <img src="https://img.shields.io/badge/Share-X-000000?style=for-the-badge&logo=x">
 
@@ -925,7 +925,7 @@ Share ideas, ask academic questions, and collaborate with other students.
 
 <td align="center" width="25%">
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/Ammar1Ahmad/integral-university-btech-cse-subject-list/blob/main/README.md">
 
 <img src="https://img.shields.io/badge/Share-Facebook-1877F2?style=for-the-badge&logo=facebook">
 
@@ -935,7 +935,7 @@ Share ideas, ask academic questions, and collaborate with other students.
 
 <td align="center" width="25%">
 
-<a href="https://api.whatsapp.com/send?text=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+<a href="https://api.whatsapp.com/send?text=https://github.com/Ammar1Ahmad/integral-university-btech-cse-subject-list/blob/main/README.md">
 
 <img src="https://img.shields.io/badge/Share-WhatsApp-25D366?style=for-the-badge&logo=whatsapp">
 
